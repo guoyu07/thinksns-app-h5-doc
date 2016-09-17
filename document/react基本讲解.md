@@ -55,3 +55,4 @@ ReactDOM.render(
 在html中的app.js是编译后的文件，并非jsx文件哈。
 
 这就是最基本的react＋es6语法，所有的控制器都是基于这个语法的基础上而写出来的component，然后将这些组件嵌套在一起，组成一个完整的前端app。
+更多的react知识，请[点击这里](https://facebook.github.io/react/)查看官方文档。（需要一定的英语阅读能力）
